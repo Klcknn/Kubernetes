@@ -1,0 +1,14 @@
+# hide "terraform.tfstate" file 
+*.tfstate
+
+# hide "terraform.tfstate.backup" file
+*.tfstate*
+
+# hide ".terraform.lock.hcl" file
+*.terraform.lock.hcl
+
+# hide "terraform.tfstate" file
+*installation*
+
+# hide "./terraform" file
+*.terraform*
